@@ -5,7 +5,7 @@
 - 📫 How to reach me polndyetter@gmail.com
 - 😄 Pronouns: HE/HIM
   
-
+![](https://komarev.com/ghpvc/?username=paulndyeta&color=ffe4b5)
 <!---
 paulndyeta/paulndyeta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
