@@ -1,4 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=paulndyeta&color=ffe4b5)
+
+[my biolink](https://bio.link/paulndyeta)
 - 👋 Hi, I’m Paul Ndyetabula
 - 👀 I’m interested in python and scripting
 - 🌱 I’m currently learning to learn
