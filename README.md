@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=paulndyeta&color=ffe4b5)
 
-[![Hi 👋, I'm Paul Ndyetabula]([https://example.com/my-gif.gif](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif))](https://bio.link/paulndyeta)
+[![Hi 👋, I'm Paul Ndyetabula]((https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif))](https://bio.link/paulndyeta)
 - 👋 Hi, I’m Paul Ndyetabula
 - 👀 I’m interested in python and scripting
 - 🌱 I’m currently learning to learn
